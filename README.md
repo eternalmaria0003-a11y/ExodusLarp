@@ -2,7 +2,7 @@
 
 
 This is a exodus larping tool
-
+All you have to do is open Exolarp.exe
 Description:
 Exodus Fake Balance Edition – The ultimate testing & demo wallet for crypto enthusiasts, developers, and content creators.
 Change your balance. Anytime. Anywhere.
